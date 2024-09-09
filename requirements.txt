@@ -1,0 +1,2 @@
+EdgeSync360-EdgeHub-Edge-Python-SDK
+tkinter
